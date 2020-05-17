@@ -1,3 +1,4 @@
 Seção 1
     1. Introdução ao curso - Pequeno comentário sobre o framework
+    2. Criando primeira aplicação VueJS - Criamos a primeira aplicação com o uso do site https://jsfiddle.net/
     
