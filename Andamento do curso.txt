@@ -13,6 +13,7 @@ Seção 1 -  Introdução e boas-vindas
     10. Como a instância Vue se conecta ao template
     11. Acessando dados da instância Vue internamente
     12. Data Binding em atributos
+    13. Usando diretivas - Uso da diretiva v-text para escrita de texto no DOM
 
 
 
