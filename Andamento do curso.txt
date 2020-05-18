@@ -4,5 +4,7 @@ Seção 1
     3. Evoluindo a aplicação - Uso de interpolação e methods
     4. Setup local - Iniciando o uso do Visual Studio Code no curso
     5. Fique por dentro das novidades - Convite para participar do grupos sociais do curso
+    6. Codigo fonte da seção - Codigo fonte da 1ª Seção do curso
     
+
 
