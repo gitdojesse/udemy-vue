@@ -8,24 +8,21 @@
 
 <body>
     <div id="app">
-        <p>Curso: {{ curso }} | {{ nomeDoInstrutor() }}</p>       
-        <a v-bind:href="docs" target="__blanck">VueJS</a> 
-        <p>Instrutor: <span v-text='instrutor'></span></p>
+        <p v-once>Nome inteiro: {{ nome }}</p>               
+        <p>Nome: {{ getNome() }}</p>
     </div>
 
     <script type="text/javascript">
 
         new Vue({
             el: '#app',
-            data: {
-                curso: 'VueJS',
-                instrutor: 'Plínio Naves',
-                docs: 'https://vuejs.org',
-                instrutor: 'Plínio Naves'
+            data: {                
+                nome: 'Plínio Naves'
             },
             methods:{
-                nomeDoInstrutor: function(){
-                    return this.instrutor
+                getNome: function(){
+                    this.nome = 'Plínio'
+                    return this.nome
                 }
             }
         });
