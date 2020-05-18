@@ -2,4 +2,6 @@ Seção 1
     1. Introdução ao curso - Pequeno comentário sobre o framework
     2. Criando primeira aplicação VueJS - Criamos a primeira aplicação com o uso do site https://jsfiddle.net/
     3. Evoluindo a aplicação - Uso de interpolação e methods
+    4. Setup local - Iniciando o uso do Visual Studio Code no curso
     
+
