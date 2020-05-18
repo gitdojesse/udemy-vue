@@ -12,6 +12,7 @@ Seção 1 -  Introdução e boas-vindas
     9. Entendendo os templates do Vue - Breve explicação sobre o funcionamento e a montagem do DOM
     10. Como a instância Vue se conecta ao template
     11. Acessando dados da instância Vue internamente
+    12. Data Binding em atributos
 
 
 
