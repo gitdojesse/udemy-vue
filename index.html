@@ -8,7 +8,7 @@
 
 <body>
     <div id="app">
-        <p>Curso: {{ curso }} | {{ instrutor() }}</p>        
+        <p>Curso: {{ curso }} | {{ nomeDoInstrutor() }}</p>        
     </div>
 
     <script type="text/javascript">
@@ -16,11 +16,12 @@
         new Vue({
             el: '#app',
             data: {
-                curso: 'VueJS'
+                curso: 'VueJS',
+                instrutor: 'Plínio Naves'
             },
             methods:{
-                instrutor: function(){
-                    return 'Plínio Naves'
+                nomeDoInstrutor: function(){
+                    return this.instrutor
                 }
             }
         });
