@@ -9,6 +9,7 @@ Seção 1 -  Introdução e boas-vindas
  Seção 2: Dominando os princípios   
     7. Sobre a seção - Apresentação da documetação do framework VueJS
     8. O que é o VueJS? - Breve explicação sobre o VueJS e suas facilidades e usabilidade
+    9. Entendendo os templates do Vue - Breve explicação sobre o funcionamento e a montagem do DOM
     
 
 
