@@ -15,3 +15,4 @@ Seção 2: Dominando os princípios;
 12. Data Binding em atributos;
 13. Usando diretivas;Uso da diretiva v-text para escrita de texto no DOM
 14. Desabilitando novas renderizações com v-once;Uso da diretiva v-once para desabilitar novas renderizações
+15. Exibindo HTML puro;Uso da diretiva v-html e como evitar ataques de Cross-site Scripting (XSS)
