@@ -16,3 +16,4 @@ Seção 2: Dominando os princípios;
 13. Usando diretivas;Uso da diretiva v-text para escrita de texto no DOM
 14. Desabilitando novas renderizações com v-once;Uso da diretiva v-once para desabilitar novas renderizações
 15. Exibindo HTML puro;Uso da diretiva v-html e como evitar ataques de Cross-site Scripting (XSS)
+16. Manipulando eventos;Uso do envento v-on:click e disponibilização de link com documentação e explicação de todos os eventos do DOM https://developer.mozilla.org/en-US/docs/Web/Events

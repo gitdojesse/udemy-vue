@@ -1,15 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
+    <meta charset="UTF-8">
     <title>VueJS - Guia completo</title>
     <script type="text/javascript" src="https://unpkg.com/vue"></script>
 </head>
 
 <body>
     <div id="app">
-        <p> {{ curso }}</p>               
-        <p v-html="curso"></p>                       
+        <button v-on:click='incrementar'>Clique</button>                     
+        <p>Botão clicado {{ cliques  }} vezes</p>
     </div>
 
     <script type="text/javascript">
@@ -17,8 +18,13 @@
         new Vue({
             el: '#app',
             data: {                
-                curso: 'Curso de <span style="color: red" >VueJS</span>'
-            }
+                cliques: 0
+            },
+            methods: {
+                incrementar: function(){
+                    this.cliques++
+                }
+            },
         });
 
     </script>
