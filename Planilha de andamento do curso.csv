@@ -18,3 +18,4 @@ Seção 2: Dominando os princípios;
 15. Exibindo HTML puro;Uso da diretiva v-html e como evitar ataques de Cross-site Scripting (XSS)
 16. Manipulando eventos;Uso do evento v-on:click e disponibilização de link com documentação e explicação de todos os eventos do DOM https://developer.mozilla.org/en-US/docs/Web/Events
 17. Entendendo o objeto Event;Uso da diretiva v-on:mousemove que controla o movimento da mouse e disponibilização de dois links:  1 -  https://developer.mozilla.org/en-US/docs/Web/Events ( Referencia de todos os eventos ) e 02 - https://developer.mozilla.org/en-US/docs/Web/API/Event ( Interface base para todos os eventos )
+18. Passando seus próprios argumentos junto com o evento;Uso da diretiva v-on:blur e passagem dos próprios parâmetros e parâmentros nativos nos métodos
