@@ -21,3 +21,4 @@ Seção 2: Dominando os princípios;
 18. Passando seus próprios argumentos junto com o evento;Uso da diretiva v-on:blur e passagem dos próprios parâmetros e parâmentros nativos nos métodos
 19. Usando modificadores de eventos;Uso da diretiva v-on:click com os modificadores de evento stop e o prevent
 20. Trabalhando com eventos do teclado e modificadores de tecla;Uso de eventos de tecla e diretiva v-on:keyup e de diversos modificadores de evento
+21. Modificando eventos do mouse;Identificando e modificando eventos do clique do mouse
