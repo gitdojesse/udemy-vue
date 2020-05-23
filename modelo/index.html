@@ -1,0 +1,83 @@
+<!DCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>VueJS - Guia completo</title>
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200;300;400&display=swap" rel="stylesheet">
+
+    <script type="text/javascript" src="https://unpkg.com/vue"></script>
+
+    <style>
+        .geral {
+            padding: 1px 20px 1px 20px;
+            font-family: "Titillium Web", sans-serif;
+            font-size: 22px;
+        }
+
+        h2 {
+            border-bottom: 1pt solid;
+            padding-bottom: 4px;
+            font-weight: 500;
+        }
+
+        h3 {
+            margin-bottom: 6px;
+            font-weight: 500;
+        }
+
+        .descricao {
+            text-align: justify;
+            min-height: 36px;
+            border: 1pt solid;
+            padding: 10px 30px 10px 10px;
+            font-size: 22px;
+        }
+
+        #app {
+            padding: 10px;
+            border: 1pt solid;
+            min-height: 330px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div class="geral">
+
+        <h2>Aula <span v-text="aula"></span></h2>
+
+        <h3>Descrição da aula</h3>
+
+        <div class="descricao" v-text="descricao"></div>
+
+        <h3>Testes de código da aula</h3>
+
+        <div id="app">
+ 
+            
+
+
+        </div>
+
+    </div>
+
+    <script type="text/javascript">
+
+        new Vue({
+            el: '.geral',
+            data: {
+                aula: ` `,
+                descricao: ` `
+            },
+            methods: {
+
+            }
+        })
+
+    </script>
+
+</body>
+
+</html>

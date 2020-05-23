@@ -1,0 +1,8 @@
+Aula;Link;Descrição do Link
+16;https://developer.mozilla.org/en-US/docs/Web/Events;Referencia de todos os eventos
+17;https://developer.mozilla.org/en-US/docs/Web/Events;Referencia de todos os eventos
+17;https://developer.mozilla.org/en-US/docs/Web/API/Event;Interface base para todos os eventos
+19;https://br.vuejs.org/v2/api/#v-on;Documentação dos modificadores de evento
+20;https://br.vuejs.org/v2/guide/events.html#Modificadores-de-Teclado;Documentação de Modificadores de Teclado
+20;https://br.vuejs.org/v2/api/#keyCodes;Codicação de teclas
+20;https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key/Key_Values;Documentação das teclas de controle( alt - ctrl - shift - meta e outras mais)

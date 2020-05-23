@@ -1,0 +1,20 @@
+Seção 1: Introdução e boas-vindas
+   1. Introdução ao curso -> Pequeno comentário sobre o framework
+   2. Criando primeira aplicação VueJS -> Criamos a primeira aplicação com o uso do site https://jsfiddle.net/   
+   3. Evoluindo a aplicação -> Uso de interpolação e methods
+   4. Setup local -> Iniciando o uso do Visual Studio Code no curso
+   5. Fique por dentro das novidades -> Convite para participar do grupos sociais do curso
+   6. Codigo fonte da seção -> Codigo fonte da 1ª Seção do curso
+
+Seção 2: Dominando os princípios   
+   7. Sobre a seção -> Apresentação da documetação do framework VueJS
+   8. O que é o VueJS? -> Breve explicação sobre o VueJS e suas facilidades e usabilidade
+   9. Entendendo os templates do Vue -> Breve explicação sobre o funcionamento e a montagem do DOM
+   10. Como a instância Vue se conecta ao template
+   11. Acessando dados da instância Vue internamente
+   12. Data Binding em atributos
+   13. Usando diretivas -> Uso da diretiva v-text para escrita de texto no DOM
+   14. Desabilitando novas renderizações com v-once -> Uso da diretiva v-once para desabilitar novas renderizações
+
+
+
